@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Goal for my 100 days of code**: At the end of these 100 days of code I want to be finished the Skillcrush courses on Front End Development & Wordpress.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Stretch goal for my 100 days of code**: My stretch goal for these 100 days of code is to finish the Phyton coursees as well and finished the Woo / Exact Online automation I want to create.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: February 19, Friday
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: I've finished Skillcrush Git & Github and started on Skillcrush Responsive Websites
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Git & Github course was a breeze although I do feel like I need some more practice with working with teams. The responsive websites course is not very advanced at the moment just learned how media types work.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Skillcrush 206 assignemnt 1](https://github.com/danaecosijn/206-static-to-fluid)
+2. [Skillcrush 206 assignment 2](https://github.com/danaecosijn/206-colors-starter)
