@@ -2,7 +2,7 @@
 
 **Goal for my 100 days of code**: At the end of these 100 days of code I want to be finished the Skillcrush courses on Front End Development & Wordpress.
 
-**Stretch goal for my 100 days of code**: My stretch goal for these 100 days of code is to finish the Phyton coursees as well and finished the Woo / Exact Online automation I want to create.
+**Stretch goal for my 100 days of code**: My stretch goal for these 100 days of code is to finish the Phyton courses as well and finished the Woo / Exact automation I want to create.
 
 ### Day 1: February 19, Friday
 
